@@ -68,9 +68,11 @@ GPU with CUDA support for optimal performance.
 <h2> Execution </h2>
 - To run the project on the example video "videos/Atrio.mp4", execute the main file:
   python main.py
+  
 - Full datasets are avaiable at:
     Training images
     https://drive.google.com/file/d/1uEcO7zgZilzDhbr1wdGkoG6LxH_uJ8ay/view?usp=share_link
     Validation images
     https://drive.google.com/file/d/1HXJdXgnjYb2AcHO841McnUlw4roJthK-/view?usp=share_link
+  
 - Trained models are not avaiable
