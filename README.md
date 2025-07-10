@@ -74,9 +74,3 @@ GPU with CUDA support for optimal performance.
     Validation images
     https://drive.google.com/file/d/1HXJdXgnjYb2AcHO841McnUlw4roJthK-/view?usp=share_link
 - Trained models are not avaiable
-
-<h2> Authors </h2>
-<b> Alberti Andrea </b>  – ID: 0622702370
-<b> Attianese Carmine </b> – ID: 0622702355
-<b> Capaldo Vincenzo </b> – ID: 0622702347
-<b> Esposito Paolo </b> – ID: 0622702292
